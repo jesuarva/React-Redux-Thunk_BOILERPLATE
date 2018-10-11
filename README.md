@@ -1,7 +1,7 @@
 # Description
 
 A DRY library to facilitate the scaffolding of React-Redux-Thunk APPs.
-It ships a ready to work project structure, with general purpose Actions and Reducers. All wired with Thunk, Bootstrap and LESS.
+It ships a ready to work project structure, with general purpose Actions and Reducers. All wired with Redux, Thunk, Bootstrap and LESS.
 
 
 ## Stack:
